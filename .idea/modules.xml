@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AoC2020.iml" filepath="$PROJECT_DIR$/.idea/AoC2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AoC2021/.idea/AoC2021.iml" filepath="$PROJECT_DIR$/../AoC2021/.idea/AoC2021.iml" />
     </modules>
   </component>
 </project>
